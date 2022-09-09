@@ -1,4 +1,4 @@
 # os222
 ## By bonaventuragal
 
-[GitHub]({{ site.githublink }}) --- [Links]({{ site.baseurl }}/LINKS/) --- [Log]({{ site.baseurl }}{{ site.loglink }})
+[GitHub](https://github.com/bonaventuragal/os222/) --- [Links]({{ site.baseurl }}/LINKS/) --- [Log]({{ site.baseurl }}/TXT/mylog.txt})
