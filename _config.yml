@@ -1,2 +1,7 @@
-githublink: "https://github.com/cbkadal/os222/"
-loglink: "/TXT/mylog.txt"
+default:
+  -
+    scope:
+      path: ""
+    values:
+      githublink: "https://github.com/cbkadal/os222/"
+      loglink: "/TXT/mylog.txt"
