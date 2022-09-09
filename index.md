@@ -1,4 +1,4 @@
 # os222
 ## By bonaventuragal
 
-[GitHub]({{ site.github }}) --- [Links]({{ site.baseurl }}/LINKS/) --- [Log]({{ site.baseurl }}{{ site.myloglink }})
+[GitHub]({{ site.githublink }}) --- [Links]({{ site.baseurl }}/LINKS/) --- [Log]({{ site.baseurl }}{{ site.myloglink }})
