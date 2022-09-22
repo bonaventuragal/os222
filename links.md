@@ -22,3 +22,9 @@ A brief explanation about what is SHA-256 and how encryption using SHA-256 works
 
 6. [A-Z Linux Commands](https://ss64.com/bash/)
 List of Linux commands sorted alphabetically. This website also provide complete commands documentation.
+
+7. [Bash Scripting Cheatsheet](https://devhints.io/bash)
+A complete cheatsheet about bash script syntax.
+
+8. [C Tutorial](https://www.tutorialspoint.com/cprogramming/index.htm)
+Complete tutorial for C programming. The tutorial given in this website is very straightforward.
