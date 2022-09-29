@@ -28,3 +28,9 @@ A complete cheatsheet about bash script syntax.
 
 8. [C Tutorial](https://www.tutorialspoint.com/cprogramming/index.htm)
 Complete tutorial for C programming. The tutorial given in this website is very straightforward.
+
+9. [What is External Fragmentation and Compaction](https://youtu.be/W_baoquYJ5Q)
+An explanation about external fragmentation in contiguous memory allocation. This video also explains how to resolve the fragmentation using compaction.
+
+10. [C Pointers](https://www.w3schools.com/c/c_pointers.php)
+This website gives a brief explanation about pointers in C programming language. There is also an explanation about dereference operator in C.
