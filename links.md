@@ -34,3 +34,9 @@ An explanation about external fragmentation in contiguous memory allocation. Thi
 
 10. [C Pointers](https://www.w3schools.com/c/c_pointers.php)
 This website gives a brief explanation about pointers in C programming language. There is also an explanation about dereference operator in C.
+
+11. [What is virtual memory?](https://techmonitor.ai/what-is/what-is-virtual-memory-4929986)
+This article explains about virtual memory and how does it works. This article also explains how to increase virtual memory of your device.
+
+12. [Working of Demand Paging in Operating System](https://www.naukri.com/learning/articles/working-of-demand-paging-in-operating-system/)
+This website explains about demand paging, how does it works, and also advantages and disadvantages of demand paging. The explanation is very easy to understand with illustrations and real-life analogy.
