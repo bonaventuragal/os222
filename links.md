@@ -40,3 +40,9 @@ This article explains about virtual memory and how does it works. This article a
 
 12. [Working of Demand Paging in Operating System](https://www.naukri.com/learning/articles/working-of-demand-paging-in-operating-system/)
 This website explains about demand paging, how does it works, and also advantages and disadvantages of demand paging. The explanation is very easy to understand with illustrations and real-life analogy.
+
+13. [Fork](https://www.computerhope.com/jargon/f/fork.htm)
+A brief explanation about fork in operating system.
+
+14. [forok() in C](https://www.geeksforgeeks.org/fork-system-call/)
+This website explains about how to fork in C. There are also some images to give better understanding how fork() works. 
