@@ -46,3 +46,9 @@ A brief explanation about fork in operating system.
 
 14. [forok() in C](https://www.geeksforgeeks.org/fork-system-call/)
 This website explains about how to fork in C. There are also some images to give better understanding how fork() works. 
+
+15. [Process Synchronization in OS](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/)
+This website explains about synchronization in a simple way. There are also some images to help explaining the concepts.
+
+16. [Deadlock in Operating System](https://www.scaler.com/topics/operating-system/deadlock-in-os/)
+This website explains about deadlocks in OS. The explanation is simple and easy to understand. There are also some diagrams and table to help explaining the concepts.
