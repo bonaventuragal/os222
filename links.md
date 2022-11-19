@@ -52,3 +52,9 @@ This website explains about synchronization in a simple way. There are also some
 
 16. [Deadlock in Operating System](https://www.scaler.com/topics/operating-system/deadlock-in-os/)
 This website explains about deadlocks in OS. The explanation is simple and easy to understand. There are also some diagrams and table to help explaining the concepts.
+
+17. [LFS Mirror](https://mirrors.ustc.edu.cn/lfs/lfs-packages/11.2/)
+An LFS mirror I use to download some package for LFS.
+
+18. [What is Cross Compilation?](https://www.linkedin.com/pulse/what-cross-compilation-loutfi-belaaribi/)
+This post explains cross compilation in a simple way. There are also some images (meme) to help explaining the concept.
