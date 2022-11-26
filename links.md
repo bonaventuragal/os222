@@ -58,3 +58,9 @@ An LFS mirror I use to download some package for LFS.
 
 18. [What is Cross Compilation?](https://www.linkedin.com/pulse/what-cross-compilation-loutfi-belaaribi/)
 This post explains cross compilation in a simple way. There are also some images (meme) to help explaining the concept.
+
+19. [How To Configure Chroot Environments for Testing on an Ubuntu 12.04 VPS](https://www.digitalocean.com/community/tutorials/how-to-configure-chroot-environments-for-testing-on-an-ubuntu-12-04-vps)
+In LFS Chapter 7, we use chroot environment to finish installing the remaining temporary tools. This website explains what is chroot environment, how it works, and how to configure it.
+
+20. [Important Files and Directories](http://www.dba-oracle.com/linux/important_files_directories.htm)
+This website lists the important files and directories in linux.
